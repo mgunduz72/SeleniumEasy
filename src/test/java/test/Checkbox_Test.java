@@ -34,6 +34,8 @@ public class Checkbox_Test extends Input_Base{
 		Assert.assertTrue(expected.equals(actual), "Check All is not displayed");
 		Checkbox_Page1.checkRandom(x);
 		
+		System.out.println("sample");
+		
 		
 	}
 	
